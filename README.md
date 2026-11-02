@@ -4,7 +4,7 @@
 
 ## 🛠️ 技术栈
 - React 19 + TypeScript
-- Vite 6
+- Vite 8
 - Tailwind CSS v4
 - Lucide React 图标库
 - JSZip 打包支持
